@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Health/Calorie Tracker Palette -->
+    <color name="primary">#2D6A4F</color>
+    <color name="primary_variant">#1B4332</color>
+    <color name="secondary">#40916C</color>
+    <color name="accent">#74C69D</color>
+
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_background">#1B4332</color>
+    <color name="on_surface">#2D6A4F</color>
+
+    <color name="text_primary">#081C15</color>
+    <color name="text_secondary">#52796F</color>
+    <color name="hint_text">#95A5A6</color>
+
+    <!-- Legacy support for older layouts -->
+    <color name="primary_green">#2D6A4F</color>
+    <color name="primary_dark_green">#1B4332</color>
+    <color name="light_bg">#F8F9FA</color>
+</resources>
